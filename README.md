@@ -1,6 +1,6 @@
 # About Project: #
-In this project, I have implemented a simple TCP chat. 
-The project involves programming one server that hosts the chat and multiple clients that connects to that very server and communicates with each other. It is a project for understanding the working of TCP/IP Connections.
+In this project, I have implemented a simple TCP chatroom. 
+The project involves programming one server that hosts the chatroom and multiple clients that connects to that very server and communicates with each other. It is a project for understanding the working of TCP/IP Connections.
 
 # Content: #
 The project consists of two files:
